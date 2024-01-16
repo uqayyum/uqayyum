@@ -4,7 +4,7 @@ Experienced Software Developer driven by a fervent passion for crafting innovati
 
 # 🔭 Projects
 
-### ALLIANZ DIGITAL HEALTH 🏥⚕️ (https://www.allianz.de/)
+### ALLIANZ DIGITAL HEALTH 🏥⚕️ (https://allianz.de/)
 
 - Description: Modernizing and digitizing global Allianz health entities and third-party insurances. Utilizing AI concepts on a modern IT architecture, ADH offers digital health services to transform core insurance processes and health-specific services. Committed to innovative approaches in insurance, delivering a fresh experience for end customers and business clients.
 
@@ -12,7 +12,7 @@ Experienced Software Developer driven by a fervent passion for crafting innovati
 
 - Description: SDS empowers MNOs to achieve ambitious goals by streamlining distribution, channel management, omnichannel retailing, and mobile financial services. Our integrated platform facilitates telecom operators in driving digital financial inclusion within emerging markets, leading to accelerated revenue growth.
 
-### FLYWHEEL DIGITAL 🚀⚙️ (https://www.flywheeldigital.com/)
+### FLYWHEEL DIGITAL 🚀⚙️ (https://flywheeldigital.com/)
 
 - Description: Leveraging state-of-the-art technologies, Flywheel is reshaping the future, envisioning a landscape where businesses effortlessly adapt to the swift transformations in digital commerce, propelling sustainable growth. 
 

@@ -1,6 +1,7 @@
 # Hello, I'm UMAIR 👋
 
 Experienced Software Developer crafting innovative solutions and unraveling complex challenges through code.
+#### Internal Profile : [UQAYYUM ADH](https://github.com/uqayyum-adh) 👨‍💻
 
 # 🔭 Projects
 

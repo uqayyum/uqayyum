@@ -28,6 +28,7 @@ Experienced Software Developer driven by a fervent passion for crafting innovati
 - 📊 Grafana
 - 🏗️ Docker, Kubernetes
 - 🛠️ Terraform
+- 🚥 Nginx
 - 🚀 REST APIs, SOAP
 - 📬 Postman API
 - 🕰️ Apache KAFKA, AWS (SQS, SNS, SES)
